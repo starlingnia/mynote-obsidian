@@ -1,0 +1,31 @@
+---
+tags: []
+parent: 'Instantons and Large N: An Introduction to Non-Perturbative Methods in Quantum Field Theory'
+collections:
+    - 非微扰
+version: 23482
+libraryID: 1
+itemKey: M7MTHJT3
+
+---
+# 非微扰算法
+
+![\<img alt="" data-attachment-key="82SM3JZB" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2F5S23INUG%22%2C%22annotationKey%22%3A%22DGMNYXBM%22%2C%22color%22%3A%22%23ffd400%22%2C%22pageLabel%22%3A%2260%22%2C%22position%22%3A%7B%22pageIndex%22%3A59%2C%22rects%22%3A%5B%5B89.42%2C413.877%2C370.82%2C460.077%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%2260%22%7D%7D" width="469" height="77" src="attachments/82SM3JZB.png" ztype="zimage">](attachments/82SM3JZB.png)\
+<span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%2260%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/LJFQZHFN">Mariño, 2015, p. 60</a></span>)</span>
+
+Referred in <a href="./chaos-JK9MCPE6.md" rel="noopener noreferrer nofollow" zhref="zotero://note/u/JK9MCPE6/?ignore=1&#x26;line=-1" ztype="znotelink" class="internal-link">chaos</a>
+
+![\<img alt="" data-attachment-key="PAEARBQC" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2F5S23INUG%22%2C%22annotationKey%22%3A%22Z4FAI2HU%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%2259%22%2C%22position%22%3A%7B%22pageIndex%22%3A58%2C%22rects%22%3A%5B%5B64.7%2C167.197%2C422.9%2C203.797%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%2259%22%7D%7D" width="597" height="61" src="attachments/PAEARBQC.png" ztype="zimage">](attachments/PAEARBQC.png)\
+<span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%2259%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/LJFQZHFN">Mariño, 2015, p. 59</a></span>)</span>
+
+![\<img alt="" data-attachment-key="LYVETNVY" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2F5S23INUG%22%2C%22annotationKey%22%3A%22DQYKG5HI%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%2259%22%2C%22position%22%3A%7B%22pageIndex%22%3A58%2C%22rects%22%3A%5B%5B74.42%2C272.677%2C382.22%2C314.677%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%2259%22%7D%7D" width="513" height="70" src="attachments/LYVETNVY.png" ztype="zimage">](attachments/LYVETNVY.png)\
+<span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%2259%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/LJFQZHFN">Mariño, 2015, p. 59</a></span>)</span>
+
+![\<img alt="" data-attachment-key="YNJAZYER" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2F5S23INUG%22%2C%22annotationKey%22%3A%224BJ5EUJC%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%22326%22%2C%22position%22%3A%7B%22pageIndex%22%3A325%2C%22rects%22%3A%5B%5B161.42%2C72.997%2C330.62%2C112.597%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%22326%22%7D%7D" width="282" height="66" src="attachments/YNJAZYER.png" ztype="zimage">](attachments/YNJAZYER.png)\
+<span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%22326%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/LJFQZHFN">Mariño, 2015, p. 326</a></span>)</span>
+
+![\<img alt="" data-attachment-key="PGWVQ9MZ" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2F5S23INUG%22%2C%22annotationKey%22%3A%22T8X6B23E%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%22326%22%2C%22position%22%3A%7B%22pageIndex%22%3A325%2C%22rects%22%3A%5B%5B151.22%2C366.037%2C346.82%2C402.037%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%22326%22%7D%7D" width="326" height="60" src="attachments/PGWVQ9MZ.png" ztype="zimage">](attachments/PGWVQ9MZ.png)\
+<span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%22326%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/LJFQZHFN">Mariño, 2015, p. 326</a></span>)</span>
+
+![\<img alt="" data-attachment-key="Y874FZKF" data-annotation="%7B%22attachmentURI%22%3A%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2F5S23INUG%22%2C%22annotationKey%22%3A%22D7CU3U5Q%22%2C%22color%22%3A%22%232ea8e5%22%2C%22pageLabel%22%3A%22326%22%2C%22position%22%3A%7B%22pageIndex%22%3A325%2C%22rects%22%3A%5B%5B145.82%2C310.237%2C353.42%2C338.437%5D%5D%7D%2C%22citationItem%22%3A%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%22326%22%7D%7D" width="346" height="47" src="attachments/Y874FZKF.png" ztype="zimage">](attachments/Y874FZKF.png)\
+<span class="citation" data-citation="%7B%22citationItems%22%3A%5B%7B%22uris%22%3A%5B%22http%3A%2F%2Fzotero.org%2Fusers%2F11898647%2Fitems%2FLJFQZHFN%22%5D%2C%22locator%22%3A%22326%22%7D%5D%2C%22properties%22%3A%7B%7D%7D" ztype="zcitation">(<span class="citation-item"><a href="zotero://select/library/items/LJFQZHFN">Mariño, 2015, p. 326</a></span>)</span>
